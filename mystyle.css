@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(1, 1, 1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.header{
+    height: 10em;
+   
+    font-size: 1.7em;
+    background-image: url("camisetas-del-futbol-chileno.png");
+    background-size: cover;
+    background-position: center;
+    }
+
+.header h1 {
+    margin: 50px;
+    font-weight: 800;
+    color: rgb(255, 247, 22);
+    }
+
+.products {
+    width: 80%;
+    margin: auto;
+    }
+.products td{
+    width: 50%;
+    padding: 2em;
+    }
+.products img{
+    width: 80%;
+    border: solid 1px #ddd;
+    }
+            
+h2{
+    color: rgb(255, 247, 22);
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+p{
+    color: rgb(244, 248, 248);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    }
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(87, 87, 30);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 900;
+    }
+    
